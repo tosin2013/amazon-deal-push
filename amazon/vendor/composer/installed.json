@@ -1,0 +1,56 @@
+[
+    {
+        "name": "exeu/apai-io",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Exeu/apai-io.git",
+            "reference": "d7ba266bacf52a4e5215c02d889d319ef56ff098"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Exeu/apai-io/zipball/d7ba266bacf52a4e5215c02d889d319ef56ff098",
+            "reference": "d7ba266bacf52a4e5215c02d889d319ef56ff098",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">=5.3.0"
+        },
+        "time": "2014-05-24 14:46:52",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "ApaiIO": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "Jan Eichhorn",
+                "email": "exeu65@googlemail.com",
+                "role": "Maintainer"
+            },
+            {
+                "name": "Dejan Spasic",
+                "email": "dejan.spasic@bitweise.biz",
+                "role": "Developer"
+            }
+        ],
+        "description": "Amazon Product Advertising PHP Library",
+        "homepage": "https://github.com/Exeu/apai-io",
+        "keywords": [
+            "ECS",
+            "Product Advertising",
+            "amazon",
+            "products",
+            "rest",
+            "soap"
+        ]
+    }
+]
